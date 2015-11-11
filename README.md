@@ -8,8 +8,7 @@ In the spirit of being an open organization by default, here are the plans for c
 ## Mission
 Laboratory space for citizen scientists and educational outreach.
 
-## Step 1
-### Brings about the organization
+## Step 1: Brings about the organization
 - [Incorporation](https://www.secretary.state.nc.us/corporations/pdf/NonprofitCorporation.pdf)
 - [Nonprofit status](https://www.ncnonprofits.org/sites/default/files/public_resources/HowToStartA501(c)(3)Nonprofit.pdf)
 - Bylaws
@@ -23,8 +22,7 @@ Laboratory space for citizen scientists and educational outreach.
   - Debt Service Schedule projected 10 years
 
 
-## Step 2
-### Brings about the operation
+## Step 2: Brings about the operation
 - Business plan
 - Grants
 - Recruit members
@@ -33,8 +31,7 @@ Laboratory space for citizen scientists and educational outreach.
   - educational outreach
 - Hire Executive Director/President/CEO
 
-## Step 3
-### Satisfaction of member needs
+## Step 3: Satisfaction of member needs
 - Sign lease
 - Outfit lab
 - Hire permanent staff
