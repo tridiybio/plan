@@ -48,6 +48,6 @@ Laboratory space for citizen scientists and educational outreach.
 - Hire staff
 - Transition from small 'working board' to larger 'nonprofit board'
   - nonprofit board recruited for ability to raise money or connections
-  - board operates by 'policy governance' leaving operations to staff.
+  - board eventually moves to 'policy governance' leaving operations to staff.
 
 
