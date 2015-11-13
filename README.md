@@ -25,7 +25,7 @@ Laboratory space for citizen scientists and educational outreach.
 ## Step 2: Brings about the operation
 - Business plan
 - Grants
-- Recruit members
+- Continue attracting members
   - flagship projects
   - presentations
   - educational outreach
@@ -44,7 +44,7 @@ Laboratory space for citizen scientists and educational outreach.
 - Fundraise
 - Hire staff
 - Transition from small 'working board' to larger 'nonprofit board'
-  - nonprofit board recruited for ability to raise money or connections
   - board eventually moves to 'policy governance' leaving operations to staff.
+  - nonprofit board recruited for ability to raise money or connections in order to support mission.
 
 
